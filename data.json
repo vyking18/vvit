@@ -1,0 +1,21 @@
+{
+    "basics":{
+        "name":"Unknown",
+        "role":"Student",
+        "email":"email123@gmail.com",
+        "number":"9**********",
+        "education":[{
+            "degree":"SSC",
+            "PER":"***"
+        },
+        {
+            "degree":"INTER",
+            "PER":"***"
+        },
+        {
+            "degree":"B-TECH",
+            "PER":"***"
+        }
+        ]
+    }
+}
