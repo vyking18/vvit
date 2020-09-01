@@ -1,2 +1,2 @@
 # vvit
-First project
+First project in vvit collage
